@@ -11,6 +11,10 @@ This project develops a machine learning model to predict customer satisfaction 
 
 
 
+## 💻 Notebook
+
+[Projeto_EBAC_Semantix](https://github.com/AlexSAssuncao/Projeto_ebac_Semantrix/blob/main/Projeto_EBAC_Semantix.ipynb)
+
 ## 🎯 Key Objectives
 
 - Predict customer satisfaction levels before review submission
@@ -48,7 +52,6 @@ The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on
   - Product category influence
 
 
-
 ## 💡 Key Insights
 
 1. **Operational Insights**
@@ -76,7 +79,6 @@ The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on
 - Additional feature engineering
 - Deep learning model exploration
 - External factors integration
-
 
 
 ## 🙏 Acknowledgments
