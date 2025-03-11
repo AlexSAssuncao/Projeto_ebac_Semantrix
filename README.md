@@ -15,7 +15,7 @@ This project develops a machine learning model to predict customer satisfaction 
 - Predict customer satisfaction levels before review submission
 - Identify key factors influencing customer satisfaction
 - Provide actionable insights for improving customer experience
-- Develop an early warning system for potential negative reviews
+
 
 ## 📚 Dataset
 
