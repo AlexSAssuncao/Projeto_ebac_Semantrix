@@ -8,7 +8,7 @@
 
 This project develops a machine learning model to predict customer satisfaction for Olist, Brazil's largest e-commerce platform. Using historical order and review data, we create a binary classification model to predict whether customers will give high satisfaction ratings (>4 stars) or not.
 
-### [View the Complete Analysis Notebook](link-to-your-notebook)
+
 
 ## 🎯 Key Objectives
 
