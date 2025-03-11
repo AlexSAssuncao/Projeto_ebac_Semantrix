@@ -15,7 +15,7 @@ This project develops a machine learning model to predict customer satisfaction 
 - Predict customer satisfaction levels before review submission
 - Identify key factors influencing customer satisfaction
 - Provide actionable insights for improving customer experience
-- Develop an early warning system for potential negative reviews
+- Insights  fo Develop an early warning system for potential negative reviews
 
 ## 📚 Dataset
 
@@ -46,23 +46,7 @@ The analysis uses the Brazilian E-Commerce Public Dataset by Olist, available on
   - Seller response time
   - Product category influence
 
-## 🚀 Project Structure
 
-```
-project/
-│
-├── data/                   # Data files
-├── notebooks/             
-│   ├── analysis.ipynb     # Main analysis notebook
-│   └── exploration.ipynb  # Initial data exploration
-│
-├── src/                    # Source code
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   └── model.py
-│
-└── README.md
-```
 
 ## 💡 Key Insights
 
@@ -72,27 +56,9 @@ project/
    - Seller response time correlates with satisfaction
 
 2. **Model Performance**
-   - Best model: CatBoost (80%+ accuracy)
+   - Best model: (80%+ accuracy)
    - Strong predictive power for negative reviews
-   - Reliable early warning system
 
-## 📋 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/olist-satisfaction-prediction.git
-```
-
-2. Install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-3. Download the dataset:
-```python
-import kagglehub
-path = kagglehub.dataset_download("olistbr/brazilian-ecommerce")
-```
 
 ## 📊 Results
 
@@ -110,13 +76,7 @@ path = kagglehub.dataset_download("olistbr/brazilian-ecommerce")
 - Deep learning model exploration
 - External factors integration
 
-## 👥 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -126,6 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [Your LinkedIn](your-linkedin-url) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/olist-satisfaction-prediction](https://github.com/yourusername/olist-satisfaction-prediction)
+[FALTA EDITAR]
